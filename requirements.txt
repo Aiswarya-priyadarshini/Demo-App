@@ -2,3 +2,6 @@ Chat Application
 Chat Support
 Video Chat Support
 Voice Support
+Emoji Support 
+Group Chat Support
+File Sharing Option
